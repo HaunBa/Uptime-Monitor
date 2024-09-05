@@ -6,7 +6,7 @@ sites:
   - name: FF Freiling
     url: https://www.feuerwehr-freiling.at
   - name: FFF-Elis
-    url: https://www.elisfreiling.ddns.net
+    url: http://elisfreiling.ddns.net:8880/ELIS
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
