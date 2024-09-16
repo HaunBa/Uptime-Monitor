@@ -4,7 +4,7 @@
     "url": "https://www.feuerwehr-freiling.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.feuerwehr-freiling.at.ico",
     "slug": "ff-freiling",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1521,
     "timeMonth": 1352,
     "timeYear": 1352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 0
+    }
   },
   {
     "name": "FFF-Elis",
