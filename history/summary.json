@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.feuerwehr-freiling.at.ico",
     "slug": "ff-freiling",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1439,
-    "timeDay": 2403,
-    "timeWeek": 1684,
-    "timeMonth": 1483,
-    "timeYear": 1439,
-    "dailyMinutesDown": {
-      "2024-10-08": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1432,
+    "timeDay": 2378,
+    "timeWeek": 1691,
+    "timeMonth": 1484,
+    "timeYear": 1432,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FFF-Elis",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 552,
-    "timeWeek": 688,
-    "timeMonth": 685,
-    "timeYear": 680,
+    "time": 679,
+    "timeDay": 615,
+    "timeWeek": 703,
+    "timeMonth": 687,
+    "timeYear": 679,
     "dailyMinutesDown": {}
   }
 ]
