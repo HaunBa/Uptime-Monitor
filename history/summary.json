@@ -6,15 +6,15 @@
     "slug": "ff-freiling",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.57%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1457,
-    "timeDay": 1729,
-    "timeWeek": 1757,
-    "timeMonth": 1497,
-    "timeYear": 1457,
+    "time": 1455,
+    "timeDay": 1391,
+    "timeWeek": 1780,
+    "timeMonth": 1501,
+    "timeYear": 1455,
     "dailyMinutesDown": {
       "2024-10-09": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 674,
-    "timeDay": 510,
-    "timeWeek": 697,
-    "timeMonth": 687,
-    "timeYear": 674,
+    "time": 670,
+    "timeDay": 502,
+    "timeWeek": 685,
+    "timeMonth": 673,
+    "timeYear": 670,
     "dailyMinutesDown": {}
   }
 ]
