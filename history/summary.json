@@ -4,7 +4,7 @@
     "url": "https://www.feuerwehr-freiling.at",
     "icon": "https://icons.duckduckgo.com/ip3/www.feuerwehr-freiling.at.ico",
     "slug": "ff-freiling",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
@@ -16,6 +16,7 @@
     "timeMonth": 1497,
     "timeYear": 1444,
     "dailyMinutesDown": {
+      "2024-10-14": 0,
       "2024-10-09": 21
     }
   },
