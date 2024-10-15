@@ -1,7 +1,7 @@
 url: https://www.feuerwehr-freiling.at
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-14T23:59:03.585Z
+status: up
+code: 200
+responseTime: 1104
+lastUpdated: 2024-10-15T00:31:07.764Z
 startTime: 2024-09-05T14:52:57.288Z
 generator: Upptime <https://github.com/upptime/upptime>
