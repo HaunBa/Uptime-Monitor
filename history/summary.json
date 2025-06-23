@@ -28,18 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/elisfreiling.ddns.net.ico",
     "slug": "fff-elis",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.87%",
+    "uptimeDay": "85.74%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.87%",
     "time": 697,
     "timeDay": 530,
     "timeWeek": 748,
     "timeMonth": 645,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2025-06-23": 0,
+      "2025-06-23": 205,
       "2024-12-06": 337
     }
   }
