@@ -27,7 +27,7 @@
     "url": "http://elisfreiling.ddns.net:8880/ELIS",
     "icon": "https://icons.duckduckgo.com/ip3/elisfreiling.ddns.net.ico",
     "slug": "fff-elis",
-    "status": "up",
+    "status": "down",
     "uptime": "98.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,7 @@
     "timeMonth": 685,
     "timeYear": 725,
     "dailyMinutesDown": {
+      "2025-08-30": 0,
       "2025-07-15": 1029,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
